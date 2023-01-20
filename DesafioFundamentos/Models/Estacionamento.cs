@@ -1,3 +1,7 @@
+//Código Modificado por Luiz Gustavo
+//Assista as gravações destas modificações no canal L GUSTAVO - PROGRAMADOR PROFISSIONAL
+// LINK DO CANAL - https://www.youtube.com/@lgustavo-programador
+
 namespace DesafioFundamentos.Models
 {
     public class Estacionamento
